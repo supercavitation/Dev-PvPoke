@@ -1,0 +1,21 @@
+{
+    "name": "gen7",
+    "title": "Gen 7 Cup",
+	"include": [{
+        "filterType": "type",
+        "values": ["electric","fire","ice","poison","psychic"]
+    }],
+    "exclude": [{
+        "filterType": "tag",
+        "values": ["mega"]
+    }, {
+        "filterType": "type",
+        "values": ["dark","steel","ground"]
+    }, {
+        "filterType": "id",
+        "values": ["oranguru","lanturn"]
+    }, {
+        "filterType": "move",
+        "values": ["MUD_SLAP"]
+    }]
+}

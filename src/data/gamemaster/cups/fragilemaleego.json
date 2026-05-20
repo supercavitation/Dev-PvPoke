@@ -1,0 +1,21 @@
+{
+    "name": "fragilemaleego",
+    "title": "Fragile Male Ego Cup",
+    "include": [{
+        "filterType": "move",
+        "values": []
+    },{
+        "filterType": "id",
+        "values": ["bastiodon","victreebel_shadow","wigglytuff","marowak_shadow","talonflame","chansey"]
+    }],
+    "exclude": [{
+        "filterType": "tag",
+        "values": ["mega"]
+    }, {
+        "filterType": "type",
+        "values": []
+    }, {
+        "filterType": "id",
+        "values": []
+    }]
+}

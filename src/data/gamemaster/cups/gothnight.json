@@ -1,0 +1,21 @@
+{
+    "name": "gothnight",
+    "title": "Goth Night Cup",
+    "include": [{
+        "filterType": "type",
+        "values": ["dark","steel","water","dragon"]
+    },{
+        "filterType": "id",
+        "values": ["gothitelle","gothorita"]
+    }],
+    "exclude": [{
+        "filterType": "tag",
+        "values": ["legendary","mythical","mega","ultrabeast","shadow"]
+    }, {
+        "filterType": "type",
+        "values": ["fire","ground","electric","fighting","grass","fairy"]
+    }, {
+        "filterType": "id",
+        "values": ["aegislash_shield","araquanid","bastiodon","corviknight","doublade","empoleon","forretress","honedge","klang","mandibuzz","orthworm","probopass","steelix","umbreon","wormadam_trash"]
+    }]
+}

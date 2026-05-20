@@ -1,0 +1,21 @@
+{
+    "name": "mlariella",
+    "title": "ML Ariella Cup",
+	"include": [{
+        "filterType": "type",
+        "values": ["fairy","flying","psychic","ghost","water","normal"]
+    },{
+        "filterType": "id",
+        "values": []
+    }],
+    "exclude": [{
+        "filterType": "tag",
+        "values": []
+    }, {
+        "filterType": "type",
+        "values": ["dark"]
+    }, {
+        "filterType": "id",
+        "values": ["gyarados_mega","kyogre_primal","latias_mega","latios_mega","metagross","metagross_mega","palkia_origin","swampert_mega","zacian_crowned_sword"]
+    }]
+}

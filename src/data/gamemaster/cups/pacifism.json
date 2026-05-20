@@ -1,0 +1,24 @@
+{
+    "name": "pacifism",
+    "title": "Pacifism Cup",
+	"include": [{
+        "filterType": "type",
+        "values": ["dark","ice","rock","normal"]
+    },{
+        "filterType": "id",
+        "values": []
+    }],
+    "exclude": [{
+        "filterType": "tag",
+        "values": ["mega"]
+    }, {
+        "filterType": "type",
+        "values": ["fighting","fairy"]
+    }, {
+        "filterType": "id",
+        "values": ["bastiodon","carbink","probopass","samurott_hisuian","morpeko_full_belly","diggersby"]
+    }, {
+        "filterType": "move",
+        "values": ["COUNTER","DOUBLE_KICK","LOW_KICK"]
+    }]
+}

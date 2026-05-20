@@ -1,0 +1,21 @@
+{
+    "name": "tierneyul",
+    "title": "UL Tierney Cup",
+    "include": [{
+        "filterType": "type",
+        "values": ["fighting","grass"]
+    },{
+        "filterType": "id",
+        "values": ["articuno_galarian"]
+    }],
+    "exclude": [{
+        "filterType": "tag",
+        "values": []
+    }, {
+        "filterType": "type",
+        "values": ["ghost","dark"]
+    }, {
+        "filterType": "id",
+        "values": ["primeape"]
+    }]
+}

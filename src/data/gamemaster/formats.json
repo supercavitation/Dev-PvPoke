@@ -1,0 +1,172 @@
+[
+	{
+		"title": "Master League (Classic)",
+		"cup": "classic",
+		"cp": 10000,
+		"meta": "master",
+		"showCup": false,
+		"showFormat": true,
+		"showMeta": false,
+		"hideRankings": true
+	},
+	{
+		"title": "Master Premier",
+		"cup": "premier",
+		"cp": 10000,
+		"meta": "premiermaster",
+		"showCup": true,
+		"showFormat": true,
+		"showMeta": true,
+		"hideRankings": true,
+		"rules": [
+			"No CP limit.",
+			"Legendary Pokémon, Mythical Pokémon, and Ultra Beasts are not eligible."
+		]
+	},
+	{
+		"title": "P!P Championship Series",
+		"cup": "championshipseries",
+		"cp": 1500,
+		"meta": "championshipseries",
+		"showCup": true,
+		"showFormat": true,
+		"showMeta": true,
+		"hideRankings": true
+	},
+	{
+		"title": "Battle Frontier (Great)",
+		"cup": "battlefrontiergreat",
+		"cp": 1500,
+		"meta": "great",
+		"showCup": true,
+		"showFormat": true,
+		"showMeta": true,
+		"hideRankings": true
+	},
+	{
+		"title": "UL Retro Cup",
+		"cup": "bfretro",
+		"cp": 2500,
+		"meta": "bfretro",
+		"showCup": true,
+		"showFormat": true,
+		"showMeta": true
+	},
+	{
+		"title": "UL Tierney Cup",
+		"cup": "tierneyul",
+		"cp": 2500,
+		"meta": "tierneyul",
+		"showCup": true,
+		"showFormat": true,
+		"showMeta": true
+	},
+	{
+		"title": "Battle Frontier (Master)",
+		"cup": "battlefrontiermaster",
+		"cp": 10000,
+		"meta": "battlefrontiermaster",
+		"showCup": true,
+		"showFormat": true,
+		"showMeta": true
+	},
+	{
+		"title": "ML Goth Night Cup",
+		"cup": "gothnightml",
+		"cp": 10000,
+		"meta": "gothnightml",
+		"showCup": true,
+		"showFormat": true,
+		"showMeta": true
+	},
+	{
+		"title": "Oli ML",
+		"cup": "oliml",
+		"cp": 10000,
+		"meta": "oliml",
+		"showCup": true,
+		"showFormat": true,
+		"showMeta": true
+	},
+	{
+		"title": "ML Ariella Cup",
+		"cup": "mlariella",
+		"cp": 10000,
+		"meta": "mlariella",
+		"showCup": true,
+		"showFormat": true,
+		"showMeta": true
+	},
+	{
+		"title": "Pacifism Cup",
+		"cup": "pacifism",
+		"cp": 1500,
+		"meta": "pacifism",
+		"showCup": true,
+		"showFormat": true,
+		"showMeta": true
+	},
+	{
+		"title": "Bayou Cup",
+		"cup": "bayou",
+		"cp": 1500,
+		"meta": "bayou",
+		"showCup": true,
+		"showFormat": true,
+		"showMeta": true
+	},
+	{
+		"title": "Spellcraft Cup",
+		"cup": "spellcraft",
+		"cp": 1500,
+		"meta": "spellcraft",
+		"showCup": true,
+		"showFormat": true,
+		"showMeta": true
+	},
+	{
+		"title": "Goth Night Cup",
+		"cup": "gothnight",
+		"cp": 1500,
+		"meta": "gothnight",
+		"showCup": true,
+		"showFormat": true,
+		"showMeta": true
+	},
+	{
+		"title": "Serene Cup",
+		"cup": "serenenaictangent",
+		"cp": 1500,
+		"meta": "serenenaictangent",
+		"showCup": true,
+		"showFormat": true,
+		"showMeta": true
+	},
+	{
+		"title": "NAIC 2026 Cup",
+		"cup": "naic2026",
+		"cp": 1500,
+		"meta": "naic2026",
+		"showCup": true,
+		"showFormat": true,
+		"showMeta": true
+	},
+	{
+		"title": "Catch Cup",
+		"cup": "catch",
+		"cp": 1500,
+		"meta": "great",
+		"showCup": false,
+		"showFormat": false,
+		"showMeta": false
+	},
+	{
+		"title": "Custom",
+		"cup": "custom",
+		"cp": 1500,
+		"meta": "great",
+		"showCup": true,
+		"showFormat": true,
+		"showMeta": false
+	}
+]

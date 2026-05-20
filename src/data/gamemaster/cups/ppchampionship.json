@@ -1,0 +1,24 @@
+{
+    "name": "ppchampionship",
+    "title": "Championship Cup",
+	"include": [{
+        "filterType": "type",
+        "values": ["dragon","ice","flying","ghost","psychic"]
+    }],
+    "exclude": [{
+        "filterType": "tag",
+        "values": ["mega","legendary","mythical","shadow","ultrabeast"]
+    }, {
+        "filterType": "type",
+        "values": ["dark","rock"]
+    }, {
+        "filterType": "id",
+        "values": ["ninetales_alolan","lapras","jellicent","sandshrew_alolan","sandslash_alolan","honedge","doublade","aegislash_shield","corviknight","corsola_galarian","kingdra"]
+    }, {
+        "filterType": "moveType",
+        "values": []
+    }, {
+        "filterType": "move",
+        "values": []
+    }]
+}

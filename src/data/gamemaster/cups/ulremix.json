@@ -1,0 +1,9 @@
+{
+	"name": "ulremix",
+	"title": "UL Remix",
+	"include": [],
+	"exclude": [{
+		"filterType": "id",
+		"values": ["bellibolt","corviknight","cradily","cresselia","dusknoir","empoleon","feraligatr","florges","forretress","gastrodon","jellicent","lapras","moltres_galarian","regidrago","togekiss","weezing_galarian","zygarde_complete"]
+	}]
+}

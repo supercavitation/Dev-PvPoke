@@ -1,0 +1,18 @@
+{
+	"name": "chump",
+	"title": "Chump",
+	"include": [{
+		"filterType": "type",
+		"values": ["normal","fighting","ghost","dark","fairy","steel","grass","bug","ice","fire","ground","flying","psychic","poison"]
+	}, {
+		"filterType": "id",
+		"values": ["aggron","aggron_shadow","lairon","lairon_shadow","probopass","probopass_shadow","stakataka","bastiodon","bastiodon_shadow","cradily","cradily_shadow","crustle","crustle_shadow","kleavor","armaldo","armaldo_shadow","aurorus","aurorus_shadow","avalugg_hisuian","empoleon","empoleon_shadow","ludicolo","golisopod","araquanid","lapras","lapras_shadow","walrein","walrein_shadow","dewgong","cloyster","cloyster_shadow","sealeo","sealeo_shadow","dialga","dialga_origin","dialga_shadow","duraludon","dipplin","hydrapple","appletun","flapple","exeggutor_alolan","exeggutor_alolan_shadow","kyurem","arctibax","baxcalibur","kyurem_black","kyurem_white","magnezone","magnezone_shadow","magneton","magneton_shadow","togedemaru","electrode_hisuian","rotom_mow","galvantula","galvantula_shadow","vikavolt","vikavolt_shadow","rotom_frost","magcargo","arcanine_hisuian","turtonator","reshiram","charizard_mega_x","rotom_heat","volcanion"]
+	}],
+	"exclude": [{
+		"filterType": "type",
+		"values": ["rock","water","dragon","electric"]
+	}, {
+		"filterType": "move",
+		"values": ["ROCK_THROW","SMACK_DOWN"]
+	}]
+}

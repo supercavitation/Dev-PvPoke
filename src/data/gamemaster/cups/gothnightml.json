@@ -1,0 +1,21 @@
+{
+    "name": "gothnightml",
+    "title": "ML Goth Night Cup",
+    "include": [{
+        "filterType": "type",
+        "values": ["dark","steel","fairy"]
+    },{
+        "filterType": "id",
+        "values": ["gothitelle","gothorita"]
+    }],
+    "exclude": [{
+        "filterType": "tag",
+        "values": []
+    }, {
+        "filterType": "type",
+        "values": []
+    }, {
+        "filterType": "id",
+        "values": []
+    }]
+}

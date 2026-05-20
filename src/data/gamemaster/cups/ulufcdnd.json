@@ -1,0 +1,9 @@
+{
+	"name": "ulufcdnd",
+	"title": "UFC D&D (Ultra League)",
+	"include": [],
+	"exclude": [{
+		"filterType": "id",
+		"values": ["bellibolt","blastoise","blastoise_mega","clefable","corviknight","cradily","cresselia","doublade","dusknoir","empoleon","feraligatr","florges","forretress","gastrodon","giratina_altered","guzzlord","jellicent","kyurem","lapras","lickilicky","malamar","moltres_galarian","primeape","regidrago","scizor","scizor_mega","steelix","steelix_mega","stunfisk","tentacruel","tinkaton","turtonator","virizion","walrein","zygarde_complete"]
+	}]
+}

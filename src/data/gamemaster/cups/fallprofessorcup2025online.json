@@ -1,0 +1,41 @@
+{
+    "name": "fallprofessorcup2025online",
+    "title": "Fall Professor Cup 2025: Online",
+    "include": [
+        {
+            "filterType": "dex",
+            "values": [1, 721]
+        }
+    ],
+    "exclude": [
+        {
+            "filterType": "tag",
+            "values": ["legendary","shadow","mythical"]
+        },
+        {
+            "filterType": "dex",
+            "values": [152,160]
+        },
+        {
+            "filterType": "dex",
+            "values": [218,245]
+        },
+        {
+            "filterType": "dex",
+            "values": [285,289]
+        },
+        {
+            "filterType": "dex",
+            "values": [369,389]
+        },
+        {
+            "filterType": "dex",
+            "values": [476,531]
+        },
+        {
+            "filterType": "dex",
+            "values": [636,660]
+        }
+    ],
+    "levelCap": 50
+}

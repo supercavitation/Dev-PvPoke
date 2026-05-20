@@ -1,0 +1,17 @@
+{
+    "name": "megacup",
+    "title": "Mega Cup",
+	"include": [{
+        "filterType": "id",
+        "values": ["venusaur","venusaur_shadow","blastoise","blastoise_shadow","charizard","charizard_shadow","alakazam","alakazam_shadow","gengar","gengar_shadow","kangaskhan","pinsir","pinsir_shadow","gyarados","gyarados_shadow","aerodactyl","aerodactyl_shadow","ampharos","ampharos_shadow","scizor","scizor_shadow","heracross","houndoom","houndoom_shadow","tyranitar","tyranitar_shadow","blaziken","blaziken_shadow","gardevoir","gardevoir_shadow","mawile",
+            "mawile_shadow","aggron","aggron_shadow","medicham","manectric","manectric_shadow","banette","banette_shadow","absol","absol_shadow","latias","latias_shadow","latios","latios_shadow","garchomp","garchomp_shadow","lucario","abomasnow","abomasnow_shadow","beedrill","beedrill_shadow","pidgeot","pidgeot_shadow","slowbro","slowbro_shadow","steelix","steelix_shadow","sceptile","sceptile_shadow","swampert","swampert_shadow","sableye","sableye_shadow",
+            "sharpedo","sharpedo_shadow","camerupt","camerupt_shadow","altaria","altaria_shadow","glalie","glalie_shadow","salamence","salamence_shadow","metagross","metagross_shadow","rayquaza","lopunny","gallade","gallade_shadow","audino","diancie","clefable","victreebel","victreebel_shadow","starmie","starmie_shadow","dragonite","dragonite_shadow","meganium","meganium_shadow","feraligatr","feraligatr_shadow","skarmory","skarmory_shadow","froslass","froslass_shadow",
+            "emboar","emboar_shadow","excadrill","excadrill_shadow","scolipede","scolipede_shadow","scrafty","eelektross","chandelure","chandelure_shadow","chesnaught","chesnaught_shadow","delphox","delphox_shadow","greninja","greninja_shadow","pyroar","floette","malamar","malamar_shadow","barbaracle","dragalge","hawlucha","drampa","falinks","raichu","chimecho","staraptor","staraptor_shadow","heatran_shadow","golurk","golurk_shadow","meowstic","meowstic_female",
+            "crabominable", "golisopod","glimmora","tatsugiri","baxcalibur","shelgon","shelgon_shadow","arctibax","frigibax","ivysaur","ivysaur_shadow","wartortle","wartortle_shadow","charmeleon","charmeleon_shadow","kadabra","kadabra_shadow","haunter","haunter_shadow","flaafy","flaafy_shadow","scyther","scyther_shadow","lairon","lairon_shadow","aron","aron_shadow","gabite","gabite_shadow","slowpoke","slowpoke_shadow","marshtomp","marshtomp_shadow","metang",
+            "metang_shadow","weepinbell","weepinbell_shadow","dragonair","dragonair_shadow","bayleef","bayleef_shadow","croconaw","croconaw_shadow","pignite","pignite_shadow","drilbur","drilbur_shadow","scraggy","eelektrik","lampent","lampent_shadow","quilladin","quilladin_shadow","braixen","braixen_shadow","frogadier","frogadier_shadow","staravia","staravia_shadow"]
+    }],
+    "exclude": [{
+        "filterType": "tag",
+        "values": ["mega"]
+    }]
+}

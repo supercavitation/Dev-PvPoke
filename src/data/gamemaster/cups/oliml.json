@@ -1,0 +1,9 @@
+{
+    "name": "oliml",
+    "title": "Oli ML",
+    "include": [],
+    "exclude": [{
+        "filterType": "id",
+        "values": ["dragonite_mega","garchomp_mega","groudon_primal","gyarados_mega","heracross_mega","kyogre_primal","latias_mega","latios_mega","metagross_mega","rayquaza_mega","salamence_mega","tyranitar_mega", "eternatus","palkia_origin","swampert_mega","zacian_crowned_sword","zamazenta_crowned_shield", "aggron_mega","charizard_mega_y","gallade_mega","gardevoir_mega","kyurem_black","kyurem_white","scizor_mega","zygarde_complete", "blastoise_mega","blaziken_mega","dialga_origin","gengar_mega","groudon","kyogre","landorus_therian","lucario_mega","lunala","marshadow","meloetta_aria","metagross","steelix_mega","xerneas","yveltal" ,"dialga","florges","giratina_origin","ho_oh","keldeo_ordinary","keldeo_resolute","lugia","mewtwo","necrozma_dawn_wings","necrozma_dusk_mane","palkia","primarina","reshiram","rhyperior","solgaleo","tyranitar","zekrom", "charizard_mega_x","garchomp","giratina_altered","gyarados","heatran","kangaskhan_mega","kyurem","melmetal","moltres","moltres_galarian","slowbro_mega","tapu_lele","urshifu_rapid_strike","urshifu_single_strike","volcanion","zacian_hero","zarude","gholdengo","togekiss","ampharos_mega","dragonite"]
+    }]
+}

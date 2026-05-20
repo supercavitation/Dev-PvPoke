@@ -1,0 +1,21 @@
+{
+    "name": "larat",
+    "title": "Larat Cup",
+	"include": [{
+        "filterType": "type",
+        "values": ["fighting","ice","ground","poison","normal"]
+    }],
+    "exclude": [{
+        "filterType": "tag",
+        "values": ["mega"]
+    }, {
+        "filterType": "type",
+        "values": []
+    }, {
+        "filterType": "id",
+        "values": ["oranguru"]
+    }, {
+        "filterType": "move",
+        "values": ["MUD_SLAP"]
+    }]
+}

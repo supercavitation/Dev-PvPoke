@@ -1,0 +1,12 @@
+{
+    "name": "battlefrontiermasterstupid",
+    "title": "Battle Frontier (Master League) (Stupid)",
+    "include": [],
+    "exclude": [{
+        "filterType": "id",
+        "values": ["zygarde_complete","zacian_crowned_sword", "zamazenta_crowned_shield","kyurem_black","kyurem_white","eternatus","necrozma_dawn_wings","necrozma_dusk_mane","lunala","solgaleo","yveltal","xerneas","dialga_origin", "dialga", "palkia_origin", "palkia","reshiram","zekrom","giratina_altered","giratina_origin","rayquaza","ho_oh","lugia","mewtwo","regigigas","groudon","kyogre","slaking","zamazenta_hero","zacian_hero","kyurem","baxcalibur","zarude","dragapult","melmetal","marshadow","necrozma","kommo_o","volcanion","hoopa","hoopa_unbound","diancie","zygarde","goodra","genesect","genesect_burn","genesect_chill","genesect_douse","genesect_shock","meloetta_aria","landorus_therian","landorus_incarnate","hydreigon","victini","shaymin_land","shaymin_sky","darkrai","heatran","garchomp","deoxys","deoxys_attack","deoxys_speed","deoxys_defense","jirachi","latios","latias","metagross","salamence","celebi","tyranitar","mew","dragonite","florges"]
+    },{
+        "filterType": "tag",
+        "values": ["mega"]
+    }]
+}
